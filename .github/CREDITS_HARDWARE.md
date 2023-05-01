@@ -24,7 +24,8 @@ Special thanks to the following for contributing to create the mod system
 	   -500GB Samsung 970 EVO Plus SSD
 	   -480GB ADATA SU630 SSD
 
--My Setup:
+>My Setup:
+>
 -AQIRYS Mira Black Keyboard
 -AQIRYS Polaris White Mouse
 -AQIRYS Gravity MousePad
