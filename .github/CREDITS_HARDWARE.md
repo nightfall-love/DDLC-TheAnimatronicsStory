@@ -26,9 +26,9 @@ Special thanks to the following for contributing to create the mod system
 
 >My Setup:
 >
--AQIRYS Mira Black Keyboard
--AQIRYS Polaris White Mouse
--AQIRYS Gravity MousePad
--HP Pavilion Headset
--DELL E198WFP Monitor
--Samsung Galaxy A52s 5G(my phone)
+- AQIRYS Mira Black Keyboard
+- AQIRYS Polaris White Mouse
+- AQIRYS Gravity MousePad
+- HP Pavilion Headset
+- DELL E198WFP Monitor
+- Samsung Galaxy A52s 5G(my phone)
