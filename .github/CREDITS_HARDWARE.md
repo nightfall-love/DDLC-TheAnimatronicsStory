@@ -8,7 +8,7 @@ Special thanks to the following for contributing to create the mod system
 - Azariel Del Carmen (GanstaKingofSA, DDLC Mod Template)
 - The DDMC Community
 
-A little list that I have as modding hardware that I use
+>A little list that I have as modding hardware that I use
 -Dell Optiplex 7020 SFF</u>
 	   -Intel Core i5 4590
 	   -16GB RAM
