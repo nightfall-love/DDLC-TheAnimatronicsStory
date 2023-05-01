@@ -10,14 +10,14 @@ Special thanks to the following for contributing to create the mod system
 
 >A little list that I have as modding hardware that I use
 
--Dell Optiplex 7020 SFF</u>
+>Dell Optiplex 7020 SFF</u>
 	   -Intel Core i5 4590
 	   -16GB RAM
 	   -Intel HD Graphics 4600
 	   -480GB KINGSTON A400 SSD
 	   -Windows 10 Pro
 
--HP Elitebook 755 G3
+>HP Elitebook 755 G3
 	   -AMD A8 8600B
 	   -16GB RAM
 	   -AMD Radeon R6 Graphics
