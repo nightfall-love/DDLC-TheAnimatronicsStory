@@ -9,6 +9,7 @@ Special thanks to the following for contributing to create the mod system
 - The DDMC Community
 
 >A little list that I have as modding hardware that I use
+
 -Dell Optiplex 7020 SFF</u>
 	   -Intel Core i5 4590
 	   -16GB RAM
