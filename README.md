@@ -1,4 +1,4 @@
-# Welcome to my DDLC Mod!
+#Welcome to my DDLC Mod!
 
 <p align="center">
   <img src=".github/DDLCModTemplateLogo.png" width=250px/>
@@ -50,7 +50,7 @@ Originally founded in Japan, you can get parts and services from our technicians
 5. Long-lasting supoort and security
 
 
-Copyright © 2019-2023 Aroko-chan Systems and Modding. All rights reserved.
+Copyright © 2019-2023 Aroko-chan Systems. All rights reserved.
 
 Copyright © 2019-2023 Azariel Del Carmen (GanstaKingofSA). All rights reserved.
 
