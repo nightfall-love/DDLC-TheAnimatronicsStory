@@ -20,8 +20,8 @@ DDLC The Animatronics Story is a mod made by Aroko-chan for the **original** Dok
 
 ### **System Requirements**
    1. Windows 7, Windows 8.1, Windows 10, Windows 11
-   2. Any type of Linux build from Ubuntu/Debian's kernel. Arch is not supported
-   3. A clean copy of DDLC that can be downloaded from https://ddlc.moe or Steam
+   Or any type of Linux build from Ubuntu/Debian's kernel. Arch is not supported
+   2. A clean copy of DDLC that can be downloaded from https://ddlc.moe or Steam
 
 ### Mod's Features
 1. A free DLC named Shadows of Love
