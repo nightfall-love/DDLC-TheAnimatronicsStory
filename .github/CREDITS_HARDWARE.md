@@ -19,11 +19,21 @@ Special thanks to the following for contributing to create the mod system
 - Windows 10 Pro
 
 >HP Elitebook 755 G3</u>
+>
 - AMD A8 8600B
 - 16GB RAM
 - AMD Radeon R6 Graphics
 - 500GB Samsung 970 EVO Plus SSD
 - 480GB ADATA SU630 SSD
+- Windows 10 Pro
+
+>HP Probook 440 G2</u>
+>
+- Intel Core i5 4210U
+- 8GB RAM
+- Intel HD Graphics Family
+- 240GB KINGSTON A400 SSD
+- Ubuntu 22.04.2 LTS
 
 >My Setup:
 >
