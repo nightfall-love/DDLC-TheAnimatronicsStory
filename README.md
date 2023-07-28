@@ -19,7 +19,7 @@ DDLC The Animatronics Story is a mod made by Aroko-chan for the **original** Dok
       > This mod has been made by Aroko-chan Systems. I don't allow any type of modification of this mod without my permision. To contact me, send me an e-mail at this adress: octavianresmeritamihai@gmail.com
 
 ### **System Requirements**
-   1. Windows 7, Windows 8.1, Windows 10, Windows 10, or any type of Linux build from Ubuntu/Debian's kernel. Arch is not supported
+   1. Windows 7, Windows 8.1, Windows 10, Windows 11, or any type of Linux build from Ubuntu/Debian's kernel. Arch is not supported
    2. A clean copy of DDLC that can be downloaded from https://ddlc.moe or Steam
 
 ### Mod's Features
