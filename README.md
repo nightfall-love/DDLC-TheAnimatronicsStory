@@ -15,7 +15,7 @@ DDLC The Animatronics Story is a mod made by Aroko-chan for the **original** Dok
       > This is a DDLC mod that is not afilliated in anyway with Team Salvato.
    - <u>GanstaKingofSA</u>
       > This is a mod made using his mod template that you can download from: https://github.com/GanstaKingofSA/DDLCModTemplate2.0.
-   - <u>Aroko-chan Systems</u>
+   - <u>Doki Microsystems</u>
       > This mod has been made by Aroko-chan Systems. I don't allow any type of modification of this mod without my permision. To contact me, send me an e-mail at this adress: octavianresmeritamihai@gmail.com
 
 ### **System Requirements**
