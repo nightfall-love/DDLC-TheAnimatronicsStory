@@ -49,7 +49,7 @@ Originally founded in Japan, you can get parts and services from our technicians
 5. Long-lasting supoort and security
 
 
-Copyright © 2019-2023 Aroko-chan Systems. All rights reserved.
+Copyright © 2021-2023 Doki Microsystems. All rights reserved.
 
 Copyright © 2019-2023 Azariel Del Carmen (GanstaKingofSA). All rights reserved.
 
