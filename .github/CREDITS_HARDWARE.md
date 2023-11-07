@@ -33,7 +33,7 @@ Special thanks to the following for contributing to create the mod system
 - 8GB RAM
 - Intel HD Graphics Family
 - 240GB KINGSTON A400 SSD
-- Ubuntu 22.04.2 LTS
+- Ubuntu 22.04.3 LTS
 
 >My Setup:
 >
