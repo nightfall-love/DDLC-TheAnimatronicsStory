@@ -1,4 +1,4 @@
-# Welcome to my DDLC Mod!
+# Welcome to Project Codename Strelizia!
 
 <p align="center">
   <img src=".github/DDLCModTemplateLogo.png" width=250px/>
