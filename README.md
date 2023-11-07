@@ -5,7 +5,7 @@
 </p>
 
 
-DDLC The Animatronics Story is a mod made by Aroko-chan for the **original** Doki Doki Literature Club that creates a new story for the original Literature Club.
+DDLC The Animatronics Story is a mod made by DOKI MICROSYSTEMS for the **original** Doki Doki Literature Club that creates a new story for the original Literature Club.
 
 > Additionaly [here](.github/CREDITS_HARDWARE.md) are all the contributors that create the modding system and my hardware.
 
