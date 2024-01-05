@@ -16,7 +16,7 @@ DDLC The Animatronics Story is a mod made by DOKI MICROSYSTEMS for the **origina
    - <u>GanstaKingofSA</u>
       > This is a mod made using his mod template that you can download from: https://github.com/GanstaKingofSA/DDLCModTemplate2.0.
    - <u>DOKI MICROSYSTEMS</u>
-      > This mod has been made by DOKI MICROSYSTEMS. We don't allow any type of modification of this mod without permision. To contact us, send an e-mail at this adress: octavianresmeritamihai@gmail.com
+      > This mod has been made by DOKI MICROSYSTEMS. We don't allow any type of modification of this mod without permision. To contact us, send an e-mail at this adress: dokimicrosystems@outlook.com
 
 ### **System Requirements**
    1. Windows 7, Windows 8.1, Windows 10, Windows 11, or any type of Linux build from Ubuntu/Debian's kernel. Arch is not supported
