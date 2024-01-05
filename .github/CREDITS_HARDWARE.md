@@ -16,30 +16,23 @@ Special thanks to the following for contributing to create the mod system
 - 16GB RAM
 - Intel HD Graphics 4600
 - 480GB KINGSTON A400 SSD
+- 500GB HGST 7200RPM Hard Drive
 - Windows 10 Pro
 
 >HP Elitebook 755 G3</u>
 >
 - AMD A8 8600B
-- 16GB RAM
+- 8GB RAM
 - AMD Radeon R6 Graphics
 - 500GB Samsung 970 EVO Plus SSD
-- 480GB ADATA SU630 SSD
-- Windows 10 Pro
+- Ubuntu 22.04.03 LTS
 
->HP Probook 440 G2</u>
->
-- Intel Core i5 4210U
-- 8GB RAM
-- Intel HD Graphics Family
-- 240GB KINGSTON A400 SSD
-- Ubuntu 22.04.3 LTS
 
 >My Setup:
 >
 - AQIRYS Mira Black Keyboard
 - AQIRYS Polaris White Mouse
 - AQIRYS Gravity MousePad
-- HP Pavilion Headset
+- AQIRYS Vega 7.1 Surround Headphones
 - DELL E198WFP Monitor
 - Samsung Galaxy A52s 5G(my phone)
