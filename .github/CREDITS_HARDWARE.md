@@ -14,7 +14,7 @@ Special thanks to the following for contributing to create the mod system
 >
 - Intel Core i5 4590
 - 16GB RAM
-- Intel HD Graphics 4600
+- NVIDIA GeForce GT 1030 2GB
 - 480GB KINGSTON A400 SSD
 - 500GB HGST 7200RPM Hard Drive
 - Windows 10 Pro
