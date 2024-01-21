@@ -25,7 +25,7 @@ Special thanks to the following for contributing to create the mod system
 - 8GB RAM
 - AMD Radeon R6 Graphics
 - 500GB Samsung 970 EVO Plus SSD
-- Ubuntu 22.04.03 LTS
+- Windows 10 Enterprise LTSC
 
 
 >My Setup:
