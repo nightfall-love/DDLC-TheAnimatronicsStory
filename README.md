@@ -49,8 +49,8 @@ Originally founded in Japan, you can get parts and services from our technicians
 5. Long-lasting supoort and security
 
 
-Copyright © 2021-2023 DOKI MICROSYSTEMS. All rights reserved.
+Copyright © 2021-2024 DOKI MICROSYSTEMS. All rights reserved.
 
-Copyright © 2019-2023 Azariel Del Carmen (GanstaKingofSA). All rights reserved.
+Copyright © 2019-2024 Azariel Del Carmen (GanstaKingofSA). All rights reserved.
 
 Doki Doki Literature Club, the Doki Doki Literature Club code, is the property of Team Salvato (Dan Salvato LLC). Copyright © 2017 Team Salvato. All rights reserved.
