@@ -15,8 +15,8 @@ Special thanks to the following for contributing to create the mod system
 - Intel Core i5 4590
 - 16GB RAM
 - NVIDIA GeForce GT 1030 2GB
-- 480GB KINGSTON A400 SSD
-- 500GB HGST 7200RPM Hard Drive
+- 480GB KINGSTON A400 SSD => SYSTEM
+- 480GB KINGSTON A400 SSD => DATA
 - Windows 10 Pro
 
 >HP Elitebook 755 G3</u>
@@ -25,7 +25,7 @@ Special thanks to the following for contributing to create the mod system
 - 8GB RAM
 - AMD Radeon R6 Graphics
 - 500GB Samsung 970 EVO Plus SSD
-- Windows 10 Enterprise LTSC
+- Ubuntu 22.04.04 LTS
 
 
 >My Setup:
@@ -34,5 +34,5 @@ Special thanks to the following for contributing to create the mod system
 - AQIRYS Polaris White Mouse
 - AQIRYS Gravity MousePad
 - AQIRYS Vega 7.1 Surround Headphones
-- DELL E198WFP Monitor
+- Philips 23ITE4L Monitor
 - Samsung Galaxy A52s 5G(my phone)
