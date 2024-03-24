@@ -5,7 +5,7 @@
 </p>
 
 
-! ALL OF THE INFO FROM GITHUB IS NOT UPDATES ANYMORE. THE MOD HAS BEEN CANCELLED ON THE DATE OF 21 March 2024 !
+! ALL OF THE INFO FROM GITHUB IS NOT UPDATED ANYMORE. THE MOD HAS BEEN CANCELLED ON THE DATE OF 21 March 2024 !
 
 DDLC The Animatronics Story is a mod made by DOKI MICROSYSTEMS for the **original** Doki Doki Literature Club that creates a new story for the original Literature Club.
 
