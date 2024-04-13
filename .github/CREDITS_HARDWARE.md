@@ -12,20 +12,20 @@ Special thanks to the following for contributing to create the mod system
 
 >Dell Optiplex 7020 SFF</u>
 >
-- Intel Core i5 4590
+- Intel Core i5-4590
 - 16GB RAM
 - NVIDIA GeForce GT 1030 2GB
 - 480GB KINGSTON A400 SSD => SYSTEM
 - 480GB KINGSTON A400 SSD => DATA
 - Windows 10 Pro
 
->HP Elitebook 755 G3</u>
+>Dell G15 5511</u>
 >
-- AMD A8 8600B
-- 8GB RAM
-- AMD Radeon R6 Graphics
-- 500GB Samsung 970 EVO Plus SSD
-- Ubuntu 22.04.04 LTS
+- Intel Core i5-11260H
+- 16GB RAM
+- NVIDIA GeForce RTX 3050 Laptop GPU
+- 2x 500GB SSDs
+- Windows 11 Pro
 
 
 >My Setup:
