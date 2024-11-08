@@ -16,8 +16,7 @@ Special thanks to the following for contributing to create the mod system
 - 16GB RAM
 - NVIDIA GeForce GT 1030 2GB
 - 480GB KINGSTON A400 SSD => SYSTEM
-- 480GB KINGSTON A400 SSD => DATA
-- Windows 10 Pro
+- Ubuntu 24.04.01 LTS
 
 >Dell G15 5511</u>
 >
@@ -31,7 +30,7 @@ Special thanks to the following for contributing to create the mod system
 >My Setup:
 >
 - AQIRYS Mira Black Keyboard
-- AQIRYS Polaris White Mouse
+- Razer Deathadder V3 Mouse
 - AQIRYS Gravity MousePad
 - AQIRYS Vega 7.1 Surround Headphones
 - Philips 23ITE4L Monitor
